@@ -1,0 +1,10 @@
+# Project-specific overrides
+*.ts linguist-detectable 
+*.min.css linguist-generated
+*.jpeg binary
+docs/index.html linguist-vendored
+*.bat text eol=crlf
+
+* text=auto
+src/**/*.ts linguist-detectable
+# eof b3658a9b
